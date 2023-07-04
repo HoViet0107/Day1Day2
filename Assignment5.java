@@ -11,7 +11,6 @@ public class Assignment5 {
             b = temp;
             System.out.println(b);
         }
-
         return a;
     }
 
