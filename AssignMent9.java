@@ -31,7 +31,7 @@ public class AssignMent9 {
             System.out.println();
         }
 
-        // tích các số là bội số của 3 hàng đầu tiên của ma trận
+        // tích các số là bội số của 3 ở hàng đầu tiên của ma trận
         int Tich = 1;
 
         for (int i = 0; i < n; i++) {
